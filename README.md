@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 Soy un desarrollador apasionado por crear soluciones robustas, escalables y bien estructuradas. Me especializo en desarrollo **Backend con Java (Spring Boot)** y diseño interfaces modernas y funcionales con **React**. Trabajo con buenas prácticas, priorizando la mantenibilidad y la eficiencia del código.
 
